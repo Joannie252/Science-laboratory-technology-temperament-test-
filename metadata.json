@@ -1,0 +1,8 @@
+{
+  "name": "Science Laboratory Technology Temperament Test",
+  "description": "An unbiased science placement platform using hidden scoring to provide career recommendations with comprehensive administrative tracking and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
